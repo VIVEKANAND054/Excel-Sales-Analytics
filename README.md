@@ -1,8 +1,10 @@
 # Excel - Sales Analytics 📊
-Sales Analytics project using Excel
+
+## Company Background
+AtliQ Hardwares is a global hardware company selling products across 23+ markets worldwide.
+This project analyzes their sales performance using Microsoft Excel.
 
 ## Sales Report :
-
 - **Project objective:**
 
   **1.** Create a [Customer Net Sales Performance Report](https://github.com/VIVEKANAND054/Excel-Sales-Analytics/blob/main/Customer_Net_Sales_Performance_report.pdf)
@@ -16,7 +18,6 @@ Sales Analytics project using Excel
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 ## Reports Included :
-
 - 📄 [AtliQ Sales Performance 2020 vs 2021](https://github.com/VIVEKANAND054/Excel-Sales-Analytics/blob/main/AtliQ_Sales_Performance_2020_vs_2021.pdf)
 - 📄 [Customer Net Sales Performance Report](https://github.com/VIVEKANAND054/Excel-Sales-Analytics/blob/main/Customer_Net_Sales_Performance_report.pdf)
 - 📄 [Market Performance vs Target Report](https://github.com/VIVEKANAND054/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
